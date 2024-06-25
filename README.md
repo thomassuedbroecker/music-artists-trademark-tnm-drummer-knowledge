@@ -2,9 +2,9 @@
 
 This is an example for an InstructLab taxonomy resource.
 
-Resource (25.06.2024): https://tnm-drummer.de
+**Resource (25.06.2024): https://tnm-drummer.de**
 
-## 1. About TNM - Drummer (
+## 1. About TNM - Drummer
 
 TNM - Drummer (Thomas Nikolaus Michael), is a versatile artist who crafts captivating background music for videos and photos while partly passionately drumming up his own unique tunes. Engrossed in his musical journey, TNM shines as a drummer in an acoustic cover band, blending his rhythmic talents with a flair for composition.
 Embracing creativity during the pandemic, TNM delves into a myriad of musical expressions by weaving loops, vocals, guitars, keyboards, and leveraging cutting-edge AI tools to elevate his visual content. His sonic palette spans soul, funk, rock, Latin, lounge, trance, techno, and electro genres, showcasing his eclectic musical prowess.
