@@ -2,7 +2,7 @@
 
 This is an example for an InstructLab taxonomy resource.
 
-**Resource (25.06.2024): https://tnm-drummer.de**
+**All resources date 25.06.2024)**
 
 ## 1. About TNM - Drummer
 
@@ -28,3 +28,18 @@ Here is a playlist with 14 songs made purely by "Bloody Mary".
 TThe band was created through the music request for our mutual friend Jan's birthday in 2017.
 Since everything fit together musically and personally, there was no other chance then just to format this awesome band. The passion and fun for music is what unites us :-) 3 T C that's Tatjana, Thomas, Thomas and Christian and they do acoustic and e-music.
 
+### 3. Pictures Drone
+
+TNM - Drummer has obtained an EU Drone License which includes the Basic Certificate (A1-A3) and the Additional Certificate (A2). He has created a video showcasing his skills of using a drone to record videos and incorporate them with his music.
+
+## 4. Internet Channel
+
+* TNM-Drummer (Home Page): Link tnm-drummer.de
+* TNM-Drummer (Spotify): Link open.spotify.com/artist/1yDc3M9xjdeSXlId7Ea6mK              
+* TNM - Drummer – Thema: Link www.youtube.com/channel/UCB_iNnv8XarWdteKWa3yTjQ
+* TNM - Drummer: www.youtube.com/@TNMDrummer
+                  313 Abonnenten
+                  373 Videos
+                  145.545 Aufrufe
+                   Am 27.08.2013 beigetreten
+                  Deutschland
