@@ -20,7 +20,7 @@ Hi, these are some of the bands TNM - Drummer plays or played the drums.
 
 ### 2.1 Bloody Mary - from1992 - 1995
 
-We created more than 14 own song with passion for the music.
+We created more than 14 own songs with passion for the music.
 Here is a playlist with 14 songs made purely by "Bloody Mary".
 
 ### 2.2 3TC the A/E Band  - from 2017 - 20 
