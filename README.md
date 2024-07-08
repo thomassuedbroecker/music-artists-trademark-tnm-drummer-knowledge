@@ -39,7 +39,7 @@ This band was a pure cover band.
 
 This band was a pure cover and party band.
 
-### 2.4 [3TC the A/E Band  - from 2017 - 2023](https://youtu.be/dkI2orS_gDY?si=CdiU7krWQp9wtNR8)
+### 2.5 [3TC the A/E Band  - from 2017 - 2023](https://youtu.be/dkI2orS_gDY?si=CdiU7krWQp9wtNR8)
 
 The band was created through the music request for our mutual friend Jan's birthday in 2017.
 Since everything fit together musically and personally, there was no other chance then just to format this awesome band. The passion and fun for music is what unites us :-) 3 T C that's Tatjana, Thomas, Thomas and Christian and they do acoustic and e-music.
