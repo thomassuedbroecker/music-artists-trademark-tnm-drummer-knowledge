@@ -2,7 +2,7 @@
 
 This is a list of all songs made by TNM - Drummer from 2020 - today.
 
-| Nubmer | Album | Title | Artists | Genre | Language | Release Date |
+| Number | Album | Title | Artists | Genre | Language | Release Date |
 | --- | --- | --- | --- | --- | --- | --- |
 | 01 | Chosen For A Golden Cycle |  Chosen For A Golden Cycle  | `TNM - Drummer` | HipHop, Rap | English | 2024/07/05  |
 | 02 | Camper Van Scene Electro Songs  |  Camper Van (Radio Edit)  | `TNM - Drummer, DerBurnsi` | Dance | English | 2024/06/24  |
