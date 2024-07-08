@@ -1,7 +1,10 @@
 # Songs of TNM - Drummer
 
+This is a list of all songs made by TNM - Drummer from 2020 - today.
+
 | | Album | Title | Artists | Genre | Language | Release Date |
 | --- | --- | --- | --- | --- | --- | --- |
+| 01 | Chosen For A Golden Cycle |  Camper Van (Radio Edit)  | `TNM - Drummer, DerBurnsi` | Dance | English | 2024/06/24  |
 | 01 | Camper Van Scene Electro Songs  |  Camper Van (Radio Edit)  | `TNM - Drummer, DerBurnsi` | Dance | English | 2024/06/24  |
 | 02 | Camper Van Scene Electro Songs  |  Camper Van  | `TNM - Drummer, DerBurnsi` | Dance | English | 2024/06/24  |
 | 03 | Fussballfieber | Fussballfieber | `TNM - Drummer` | German Pop | German | 2024/06/15 |
