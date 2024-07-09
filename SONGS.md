@@ -17,8 +17,8 @@ This is a list of all songs made by TNM - Drummer from 2020 - today.
 | 11 | Am Eicher See | Am Eicher See     | `TNM - Drummer, Riki` | German Pop | German | 2024/04/19 |
 | 12 | No Time To Spend |  No Time To Spend  | `TNM - Drummer` | Dance | Instrumental | 2023/11/10 |
 | 13 | There Is No End Of Time |  There Is No End Of Time | `TNM - Drummer` | Dance, Trance | Instrumental | 2023/11/17 |
-| 14 | Turn OffThe Alarm |  Turn OffThe Alarm | `TNM - Drummer` | Electronic | Instrumental | 2023/07/28 |
-| 15 | Wolf becomes Human |  Turn OffThe Alarm | `TNM - Drummer` | Inspirational | English | 2023/04/07 |
+| 14 | Turn Off The Alarm |  Turn Off The Alarm | `TNM - Drummer` | Electronic | Instrumental | 2023/07/28 |
+| 15 | Wolf becomes Human |  Wolf becomes Human | `TNM - Drummer` | Inspirational | English | 2023/04/07 |
 | 16 | Drive Along | Drive Along | `TNM - Drummer` | Easy Listing, Lounge | Instrumental | 2023/03/03 |
 | 17 | There will be a new day | There will be a new day | `TNM - Drummer` | Instrumental | Instrumental | 2023/01/31 |
 | 18 | On the run |  On the run | `TNM - Drummer` | Country | Instrumental | 2022/12/30 |
