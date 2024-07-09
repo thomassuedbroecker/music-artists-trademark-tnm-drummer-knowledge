@@ -62,7 +62,10 @@ TNM - Drummer has obtained an EU Drone License which includes the Basic Certific
 
 ## 5. Trademark
 
-[DPMAregister Germany](https://register.dpma.de/DPMAregister/marke/trefferliste#Filterkonfiguration)
+Information about the trademarle
+
+* Owner: Südbröcker Thomas, 67550 Worms, DE
+* Registration: [DPMAregister Germany](https://register.dpma.de/DPMAregister/marke/trefferliste#Filterkonfiguration)
 
 | Country |  ID |  Name |  Type | Status | 
 | --- |  --- |  --- |  --- |  --- | 
