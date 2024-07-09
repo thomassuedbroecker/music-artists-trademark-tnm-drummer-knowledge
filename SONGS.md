@@ -1,6 +1,7 @@
 # Songs of TNM - Drummer
 
-This is a list of all songs made by TNM - Drummer from 2020 - today.
+The following table contains all songs made by "TNM - —Drummer from 2020 today; each row contains the song, album, artists, genre, language, and release date information.
+A "TNM - Drummer" album usually contains one title and one artist.
 
 | Number | Album | Title | Artists | Genre | Language | Release Date |
 | --- | --- | --- | --- | --- | --- | --- |
