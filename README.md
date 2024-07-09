@@ -67,3 +67,15 @@ TNM - Drummer has obtained an EU Drone License which includes the Basic Certific
 | Country |  ID |  Name |  Type | Status | 
 | --- |  --- |  --- |  --- |  --- | 
 | DE	| 3020212441153	| TNM - Drummer	| Trademark | registered |
+
+### 5.1 Registered classes
+
+* Class(es) 09:
+music recordings; recorded media; Recorded music videos; DVDs prerecorded with music; music video recordings; Downloadable digital music
+
+* Class(es) 16:
+Pictures
+
+* Class(es) 41:
+musical performances; live musical performance; music production; Production of music videos
+
