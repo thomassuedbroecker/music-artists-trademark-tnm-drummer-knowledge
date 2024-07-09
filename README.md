@@ -57,5 +57,13 @@ TNM - Drummer has obtained an EU Drone License which includes the Basic Certific
                   313 Abonnenten
                   373 Videos
                   145.545 Aufrufe
-                   Am 27.08.2013 beigetreten
+                  Am 27.08.2013 beigetreten
                   Deutschland
+
+## 5. Trademark
+
+[DPMAregister Germany](https://register.dpma.de/DPMAregister/marke/trefferliste#Filterkonfiguration)
+
+| Country |  ID |  Name |  Type | Status | 
+| --- |  --- |  --- |  --- |  --- | 
+| DE	| 3020212441153	| TNM - Drummer	| Trademark | registered |
