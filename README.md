@@ -2,7 +2,7 @@
 
 This is an example for an InstructLab taxonomy resource.
 
-**All resources date 25.06.2024**
+**All resources date from 25.06.2024 to present**
 
 ## 1. About TNM - Drummer
 
