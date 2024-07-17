@@ -1,6 +1,6 @@
 # Rheindürkheim Du Bist Mein
 
-Text - TNM - Drummer
+Lyrics by TNM - Drummer
 
 ### Intro
 In der Steinzeit warst du schon bekannt.
