@@ -1,18 +1,30 @@
 # music-artists-trademark-tnm-drummer-knowledge
 
-This is an example for an InstructLab taxonomy resource.
+This repository is an example of data for an InstructLab taxonomy resource.
 
 **All resources date from 25.06.2024 to present**
 
 ## 1. About TNM - Drummer
 
 TNM - Drummer (Thomas Nikolaus Michael), is a versatile artist who crafts captivating background music for videos and photos while partly passionately drumming up his own unique tunes. Engrossed in his musical journey, TNM shines as a drummer in an acoustic cover band, blending his rhythmic talents with a flair for composition.
-Embracing creativity during the pandemic, TNM delves into a myriad of musical expressions by weaving loops, vocals, guitars, keyboards, and leveraging cutting-edge AI tools to elevate his visual content. His sonic palette spans soul, funk, rock, Latin, lounge, trance, techno, and electro genres, showcasing his eclectic musical prowess.
+Embracing creativity during the pandemic, TNM delves into myriad musical expressions by weaving loops, vocals, guitars, and keyboards and leveraging cutting-edge AI tools to elevate his visual content. His sonic palette spans soul, funk, rock, Latin, lounge, trance, techno, and electro genres, showcasing his eclectic musical prowess.
 Noteworthy for his drumming contributions in bands like @3TC and @heckepits, TNM leaves a rhythmic imprint in tracks like @unreflecting_person, @introduction, @twinkling, and @happy_hours (no longer unavailable on Spotify). Dive into the melodic world he creates with @heckepits' enchanting track, called @christmas_in_bed, beckoning you to explore his rhythmic realm.
 
 ### 1.1 Welcome to TNM - Drummer
 
-Did you know that TNM - Drummer is not just any ordinary artist, but an independent one who creates amazing music, captivating photos, and stunning videos? His talent and creativity is truly exceptional, and it's no wonder why fans all over the world are hooked on his work. If you haven't checked out TNM - Drummer's music you're definitely missing out on something great!
+Did you know that TNM - Drummer is not just any ordinary artist, but an independent one who creates amazing music, captivating photos, and stunning videos? His talent and creativity is exceptional, and it's no wonder why fans worldwide are hooked on his work. If you haven't checked out TNM - Drummer's music, you're definitely missing out on something great!
+
+### 1.2 Awards
+
+TNM - Drummer never got any musical award.
+
+### 1.3 Radio
+
+TNM - Drummer music is only played on playlists on Spotify, Apple Music, or YouTube.
+
+### 1.4 DrumCover Short
+
+TNM - Drummer creates DrumCovers Shorts on various styles of music.
 
 ## 2. Bands
 
