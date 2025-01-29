@@ -79,9 +79,11 @@ Information about the trademarke
 * Owner: Südbröcker Thomas, 67550 Worms, DE
 * Registration: [DPMAregister Germany](https://register.dpma.de/DPMAregister/marke/trefferliste#Filterkonfiguration)
 
-| Country |  ID |  Name |  Type | Status | 
-| --- |  --- |  --- |  --- |  --- | 
-| DE	| 3020212441153	| TNM - Drummer	| Trademark | registered |
+* Country: `DE`
+* ID: `3020212441153`
+* Name: `TNM - Drummer`
+* Type: `Trademark`
+* Status `registered`
 
 ### 5.1 Registered classes
 
